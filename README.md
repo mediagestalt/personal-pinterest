@@ -11,5 +11,5 @@ This tutorial will introduce you to:
 - a tool called [Pinback](http://www.pinback.it/) that will download your Pinterest notebooks to individual `html` files.
 - a simple web-scraping [Python script](personal-pinterest.ipynb) that downloads your Pinterest images to your computer.
 - a hands-off MySQL tutorial describing the design of my database.
-- a very simple `php` web form that allows for data entry *I’m a beginner at this*
+- a very simple `php` web form that allows for data entry *(I’m a beginner at this)*
 - maybe a nicer way to display the data?
