@@ -6,7 +6,7 @@ The underlying purpose of this project is to provide a tutorial on personal info
 
 I created this project because I worry about the reliability of cloud based services these days, and Pinterest especially has a little too much sponsored content for my liking. 
 
-This tutorial will introduce you to:
+This tutorial will introduce you to the following coding skills:
 
 - a tool called [Pinback](http://www.pinback.it/) that will download your Pinterest notebooks to individual `html` files.
 - a simple web-scraping [Python script](personal-pinterest.ipynb) that downloads your Pinterest images to your computer.
