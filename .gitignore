@@ -1,0 +1,8 @@
+# gitignore
+
+## folders
+
+db/
+images/
+.ipynb_checkpoints/
+
